@@ -7,7 +7,13 @@ Government Web & Mobile Applications at Pharmacy Council of India (PCI).
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
 ### Backend
 - Python
@@ -55,3 +61,7 @@ Git • GitHub • VS Code • Android Studio • Xcode
 ## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/YOUR-LINK
 - Email: yourmail@email.com
+
+## 📊 GitHub Stats
+
+![Iqra's GitHub stats](https://github-readme-stats.vercel.app/api?username=IqraOg&show_icons=true&theme=radical)
