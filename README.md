@@ -62,6 +62,7 @@ Git • GitHub • VS Code • Android Studio • Xcode
 - LinkedIn: https://linkedin.com/in/YOUR-LINK
 - Email: yourmail@email.com
 
+
 ## 📊 GitHub Stats
 
-![Iqra's GitHub stats](https://github-readme-stats.vercel.app/api?username=IqraOg&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IqraOg&show_icons=true&theme=tokyonight)
