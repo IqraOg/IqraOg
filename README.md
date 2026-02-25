@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋 I'm Iqra Khan
 
-<!--
-**IqraOg/IqraOg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Engineer | Full Stack & Mobile Developer
 
-Here are some ideas to get you started:
+Software Developer with 2+ years of experience delivering
+Government Web & Mobile Applications at Pharmacy Council of India (PCI).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### Backend
+- Python
+- Django
+- Wagtail CMS
+- REST APIs
+
+### Mobile Development
+- Flutter & Dart
+- Angular + Ionic
+- Android & iOS Applications
+- Google Play Console & App Store Deployment
+
+### Frontend
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript
+
+---
+
+## 🏢 Professional Experience
+**Pharmacy Council of India (PCI)**
+
+✔ Developed PCI Official Website (Django + Wagtail)  
+✔ Built Inspection Management Application  
+✔ Developed Digital Signature Application  
+✔ Managed Android & iOS App Releases  
+
+---
+
+## 📂 Featured Projects
+- 🔹 PCI Inspection Application
+- 🔹 PCI Signature Application
+- 🔹 PCI Website CMS
+- 🔹 Flutter Mobile Applications
+
+---
+
+## 🛠 Tools
+Git • GitHub • VS Code • Android Studio • Xcode
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/YOUR-LINK
+- Email: yourmail@email.com
